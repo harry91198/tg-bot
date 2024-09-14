@@ -1,0 +1,8 @@
+# config.py
+
+api_id = ''
+api_hash = ''
+phone_number = ''
+
+from_group_name = ""
+to_group_name = ""
